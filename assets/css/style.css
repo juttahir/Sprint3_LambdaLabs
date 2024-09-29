@@ -88,21 +88,10 @@ nav ul li a:hover {
     #carouselExampleControls {
         height: 200px;
     }
-    .logo{
-        height: 28px;
-        left: -50%;
-        right: 90.13%;
-        top: calc(50% - 25px/2 - 2px);
-        margin-right: 1rem;
-        margin-left: 1rem;
-    
-        font-family: 'Rubik';
-        font-style: normal;
-        font-weight: 700;
-        font-size: 24px;
-        line-height: 28px;
-        letter-spacing: -0.133333px;
-        color: #cfcfcf;
+    .logo{       
+        position: relative;
+        left: 30%;
+        width: 30%;
     }
 }
 
